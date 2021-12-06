@@ -6,7 +6,7 @@ _👽Currently in 2nd grade👽_
 
 ## Here is a summary of my skills:👻
 
-* Big knowledgment in Java(front-end), C++ and Assembly
+* Big knowledgment in Java(front-end), C++ && Assembly
 * Python, git, html && xml
 * Mathmatics && physics 
 
