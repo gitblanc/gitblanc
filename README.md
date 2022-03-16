@@ -6,22 +6,24 @@ _👽Currently in 2nd grade👽_
 
 ## Here is a summary of my skills:👻
 
-* Big knowledgment in Java(full-stack), C++, C# && Assembly 🛠
-* Python, git, html && xml 🧪
+* Big knowledgment in Java(full-stack), C++, C, C# && Python 🛠
+* Assembly, shell, git, html && xml 🧪
 * Mathmatics && physics 🧬
 
 ### What I am studying for? 📋
 
 _I'm studying for being a professional ethical hacker on the red team💀_
 
-███████████████████████████ 
+███████████████████████████ ███████████████████████████ ███████████████████████████ 
 
 ### I'm learning by my own: 🔧
 
 * Pentesting ♦
-* Using ssh ♦
-* Post Exploitation ♦
-* Web application scanning ♦
+* Hardware Hacking ♦
+
+### Favourite platforms: 💎
+* [HacktheBox](https://www.hackthebox.com) 📀 
+* [TryHackMe](https://tryhackme.com) 📀
 
 ```
 49,6e,74,72,6f,64,75,63,65,20,79,6f,75,72,20,63,6f,64,65,20,68,65,72,65
@@ -37,6 +39,8 @@ _I'm studying for being a professional ethical hacker on the red team💀_
 * Eclipse🧩
 * Visual Studio🧩
 * Atom🧩
+* Cotline🧩
+* PyCharm🧩
 
 ```
  ,,
