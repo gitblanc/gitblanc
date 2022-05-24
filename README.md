@@ -9,18 +9,35 @@ _👽Currently in 2nd grade👽_
 ![](https://img.shields.io/badge/♡-Math-informational?style=flat&logo=math&color=E01517)
 ![](https://img.shields.io/badge/♡-Physics-informational?style=flat&logo=physics&color=DED123)
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=B18904)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3ADF00)
-![](https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&color=000000)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A847EA)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&color=3879C9)
-![](https://img.shields.io/badge/Code-Shell-informational?style=flat&logo=shell&color=1D1D1D)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F85A05)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=kali&color=0A0EF8)
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=gitblanc)](https://github.com/gitblanc)
+![](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/AMD-Ryzen_7_5700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+![](http://ForTheBadge.com/images/badges/built-with-love.svg)
+
+![](https://github-readme-stats.vercel.app/api?username=gitblanc&theme=dark)
+
 
 ## Connect with me: 🤝
 
@@ -31,6 +48,8 @@ _👽Currently in 2nd grade👽_
 ### What I am studying for? 📋
 
 _I'm studying for being a professional ethical hacker on the red team💀_
+
+![](https://img.shields.io/github/followers/gitblanc.svg?style=social&label=Follow&maxAge=2592000)
 
 ███████████████████████████████████████████████████
 
@@ -53,12 +72,12 @@ _I'm studying for being a professional ethical hacker on the red team💀_
 
 ## Favourite editors: 🎱
 
-* Visual Studio Code 🧩
-* Eclipse 🧩
-* Visual Studio 🧩
-* Atom 🧩
-* Cotline 🧩
-* PyCharm 🧩
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ```
  ,,
