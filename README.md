@@ -45,7 +45,7 @@ _👽Currently in 2nd grade👽_
 <a href="https://twitter.com/gitblanc"><img align="left" src="http://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" width="40px"/></a>
 
 
-### What I am studying for? 📋
+### What am I studying for? 📋
 
 _I'm studying for being a professional ethical hacker on the red team💀_
 
