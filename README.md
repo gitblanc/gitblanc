@@ -2,7 +2,7 @@
 
 _♨My name is gitblanc and I'm studying Software Engineering in Oviedo♨_ 
 
-_👽Currently in 2nd grade👽_
+_👽Currently in 3rd grade👽_
 
 ## Here is a summary of my skills: 👻
 
