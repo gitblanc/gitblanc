@@ -38,6 +38,7 @@ _👽Currently in 3rd grade👽_
 
 ![](https://github-readme-stats.vercel.app/api?username=gitblanc&theme=dark)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=gitblanc)
 
 ## Connect with me: 🤝
 
