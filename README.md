@@ -14,6 +14,10 @@ _♨My name is gitblanc and I'm studying Software Engineering in Oviedo♨_
 
 _👽Currently in 3rd grade👽_
 
+
+![imagen](https://user-images.githubusercontent.com/87705461/200268593-36e13cd6-11af-48c0-a21a-7911da02e381.png)
+
+
 ## Here is a summary of my skills: 👻
 
 ![](https://img.shields.io/badge/♡-Math-informational?style=flat&logo=math&color=E01517)
