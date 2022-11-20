@@ -14,7 +14,7 @@ _♨My name is gitblanc and I'm studying Software Engineering in Oviedo♨_
 
 _👽Currently in 3rd grade👽_
 
-![](https://github.com/gitblanc/gifs/blob/main/magi.gif) ![](https://github.com/gitblanc/gifs/blob/main/dum.gif)
+![](https://github.com/gitblanc/gifs/blob/main/magi.gif) 
 
 
 ## Here is a summary of my skills: 👻
@@ -111,6 +111,8 @@ _I'm studying for being a professional ethical hacker on the red team💀_
   ~gitblanc~                           .$"
                                      "
 ```
+
+![](https://github.com/gitblanc/gifs/blob/main/dum.gif)
 
 ---
 _System.out.println("Nice hunt");_ 
