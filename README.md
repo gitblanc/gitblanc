@@ -14,8 +14,7 @@ _♨My name is gitblanc and I'm studying Software Engineering in Oviedo♨_
 
 _👽Currently in 3rd grade👽_
 
-
-![imagen](https://user-images.githubusercontent.com/87705461/200268593-36e13cd6-11af-48c0-a21a-7911da02e381.png)
+![](https://github.com/gitblanc/gifs/blob/main/magi.gif) ![](https://github.com/gitblanc/gifs/blob/main/dum.gif)
 
 
 ## Here is a summary of my skills: 👻
@@ -77,13 +76,6 @@ _I'm studying for being a professional ethical hacker on the red team💀_
 * [HacktheBox](https://www.hackthebox.com) 📀 
 * [TryHackMe](https://tryhackme.com) 📀
 
-```
-49,6e,74,72,6f,64,75,63,65,20,79,6f,75,72,20,63,6f,64,65,20,68,65,72,65
-49,6e,74,72,6f,64,75,63,65,20,79,6f,75,72,20,63,6f,64,65,20,68,65,72,65
-49,6e,74,72,6f,64,75,63,65,20,79,6f,75,72,20,63,6f,64,65,20,68,65,72,65
-49,6e,74,72,6f,64,75,63,65,20,79,6f,75,72,20,63,6f,64,65,20,68,65,72,65
-49,6e,74,72,6f,64,75,63,65,20,79,6f,75,72,20,63,6f,64,65,20,68,65,72,65
-```
 
 ## Favourite editors: 🎱
 
