@@ -53,6 +53,7 @@ _👽Currently in 3rd grade👽_
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gitblanc)
 
+![](https://github.com/gitblanc/gitblanc/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with me: 🤝
 
