@@ -53,6 +53,8 @@ _👽Currently in 3rd grade👽_
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gitblanc)
 
+![](https://github.com/gitblanc/gitblanc/blob/main/.github/workflows/snake.yml)
+
 ## Connect with me: 🤝
 
 
