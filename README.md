@@ -51,6 +51,8 @@ _👽Currently in 3rd grade👽_
 
 ![](https://github-readme-stats.vercel.app/api?username=gitblanc&theme=dark)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=gitblanc&theme=dark)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gitblanc)
 
 ![](https://github.com/gitblanc/gitblanc/blob/output/github-contribution-grid-snake.svg)
