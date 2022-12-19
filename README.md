@@ -49,8 +49,6 @@ _👽Currently in 3rd grade👽_
 
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=gitblanc&theme=dark)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gitblanc&theme=dark)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gitblanc)
