@@ -59,6 +59,7 @@ _👽Currently in 3rd grade👽_
 
 
 <a href="https://twitter.com/gitblanc"><img align="left" src="http://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" width="40px"/></a>
+<a href="https://stackoverflow.com/users/20457435/gitblanc"><img align="left" src="https://ih0.redbubble.net/image.316143164.7951/flat,800x800,075,f.jpg" width="30px"/></a>
 
 
 ### What am I studying for? 📋
