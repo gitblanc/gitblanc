@@ -122,4 +122,4 @@ _I'm studying for being a professional ethical hacker on the red team💀_
 ![](https://github.com/gitblanc/gifs/blob/main/dum.gif)
 
 ---
-_System.out.println("Nice hunt");_ 
+<img src="https://profile-counter.glitch.me/gitblanc/count.svg" />
