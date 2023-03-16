@@ -12,6 +12,10 @@
 ---
 _♨My name is gitblanc and I'm studying Software Engineering in Oviedo♨_ 
 
+_🔥I do not have a presentation website (it is my Github), but you can check [my personal webpage](https://gitblanc-obsidian-notes.netlify.app/) where I store all my knowledge. I love to share it to everyone :) 🔥_
+
+_💥You can also check the [repo - Obsidian-Notes](https://github.com/gitblanc/Obsidian-Notes) where is stored all this knowledge, if you want to save it and continue by your own.🌬💥_
+
 _👽Currently in 3rd grade👽_
 
 ![](https://github.com/gitblanc/gifs/blob/main/magi.gif) 
