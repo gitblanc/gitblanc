@@ -20,7 +20,7 @@ _👽Currently in 3rd grade👽_
 
 ![](https://github.com/gitblanc/gifs/blob/main/magi.gif) 
 
-![Metrics](https://metrics.lecoq.io/gitblanc?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FMadrid)
+![Metrics](https://metrics.lecoq.io/gitblanc?template=classic&nightscout=1&wakatime=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&nightscout=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Europe%2FMadrid)
 
 
 ## Here is a summary of my skills: 👻
