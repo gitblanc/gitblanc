@@ -9,6 +9,7 @@
    /\____/                                                
    \_/__/ 
 ```
+![tryhackme stats](https://raw.githubusercontent.com/gitblanc/gitblanc/master/assets/thm_propic.png)
 ---
 _♨My name is gitblanc and I'm studying Software Engineering in Oviedo♨_ 
 
