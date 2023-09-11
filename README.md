@@ -62,7 +62,7 @@ _👽Currently in 3rd grade👽_
 ![Profile View Counter](https://komarev.com/ghpvc/?username=gitblanc)
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fgitblanc&label=Visitors%20today&countColor=%2337d67a&style=plastic&labelStyle=upper)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/gitblanc.png" alt="TryHackMe">
+
 
 ![Snake animation](https://github.com/gitblanc/gitblanc/blob/output/github-contribution-grid-snake-dark.svg)
 
