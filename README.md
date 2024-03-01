@@ -25,7 +25,8 @@ _👽Currently in 4th grade👽_
 </p>
 
 <p align="center">
-          <img src="https://komarev.com/ghpvc/?username=gitblanc" alt="pfcounter?"/> <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fgitblanc&label=Visitors%20today&countColor=%2337d67a&style=plastic&labelStyle=upper" alt="visitors?"/>
+          <img src="https://komarev.com/ghpvc/?username=gitblanc" alt="pfcounter?"/> 
+          <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fgitblanc&label=Visitors%20today&countColor=%2337d67a&style=plastic&labelStyle=upper" alt="visitors?"/>
 </p>
 
 <p align="center">
