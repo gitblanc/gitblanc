@@ -18,7 +18,7 @@ _💥Check [Obsidian-Notes](https://github.com/gitblanc/Obsidian-Notes) where is
 
 _🌊You can also check [my personal blog](https://gitblanc.github.io/gitblanc_blog/), where I upload some writeups and articles that you may find interesting🌊_
 
-_👽Currently in 3rd grade👽_
+_👽Currently in 4th grade👽_
 
 ![](https://github.com/gitblanc/gifs/blob/main/magi.gif) 
 
