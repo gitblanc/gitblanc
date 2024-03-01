@@ -20,115 +20,33 @@ _🌊You can also check [my personal blog](https://gitblanc.github.io/gitblanc_b
 
 _👽Currently in 4th grade👽_
 
-![](https://github.com/gitblanc/gifs/blob/main/magi.gif) 
+<p align="center">
+          <img src="https://github.com/gitblanc/gifs/blob/main/magi.gif" alt="why?">
+</p>
 
+<p align="center">
+          <img src="https://komarev.com/ghpvc/?username=gitblanc" alt="pfcounter?"/> <img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fgitblanc&label=Visitors%20today&countColor=%2337d67a&style=plastic&labelStyle=upper" alt="visitors?"/>
+</p>
 
-## Here is a summary of my skills: 👻
+<p align="center">
+          <img src="https://tryhackme-badges.s3.amazonaws.com/gitblanc.png" alt="TryHackMe">
+</p>
 
-![](https://img.shields.io/badge/♡-Math-informational?style=flat&logo=math&color=E01517)
-![](https://img.shields.io/badge/♡-Physics-informational?style=flat&logo=physics&color=DED123)
+<p align="center">
+          <img src="https://github.com/gitblanc/gitblanc/blob/output/github-contribution-grid-snake-dark.svg" alt="snake:D"/>
+</p>
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
-![](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-
-![](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![](https://img.shields.io/badge/AMD-Ryzen_7_5700XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-![](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gitblanc&theme=dark)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=gitblanc)
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fgitblanc&label=Visitors%20today&countColor=%2337d67a&style=plastic&labelStyle=upper)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/gitblanc.png" alt="TryHackMe">
-
-![Snake animation](https://github.com/gitblanc/gitblanc/blob/output/github-contribution-grid-snake-dark.svg)
-
-## Connect with me: 🤝
-
-
-<a href="https://twitter.com/gitblanc"><img align="left" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-852x479.jpg" width="60px"/></a>
-<a href="https://stackoverflow.com/users/20457435/gitblanc"><img align="left" src="https://ih0.redbubble.net/image.316143164.7951/flat,800x800,075,f.jpg" width="30px"/></a>
-
-
-### What am I studying for? 📋
-
-_I'm studying for being a professional ethical hacker on the red team💀_
-
-![](https://img.shields.io/github/followers/gitblanc.svg?style=social&label=Follow&maxAge=2592000)
-
-███████████████████████████████████████████████████
-
-### I'm learning by my own: 🔧
-
-* Pentesting ♦
-* Hardware Hacking ♦
-
-### Favourite platforms: 💎
-* [HacktheBox](https://www.hackthebox.com) 📀 
-* [TryHackMe](https://tryhackme.com) 📀
-
-
-## Favourite editors: 🎱
-
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-```
- ,,
-`""*$b..
-     ""*$o.
-         "$$o.
-           "*$$o.
-              "$$$o.
-                "$$$$bo...       ..o:
-                  "$$$$$$$$booocS$$$    ..    ,.
-               ".    "*$$$$SP     V$o..o$$. .$$$b
-                "$$o. .$$$$$o. ...A$$$$$$$$$$$$$$b
-          ""bo.   "*$$$$$$$$$$$$$$$$$$$$P*$$$$$$$$:
-             "$$.    V$$$$$$$$$P"**""*"'   VP  * "l
-               "$$$o.4$$$$$$$$X
-                "*$$$$$$$$$$$$$AoA$o..oooooo..           .b
-                       .X$$$$$$$$$$$P""     ""*oo,,     ,$P
-                      $$P""V$$$$$$$:    .        ""*****"
-                    .*"    A$$$$$$$$o.4;      .
-                         .oP""   "$$$$$$b.  .$;
-                                  A$$$$$$$$$$P
-                                  "  "$$$$$P"
-                                      $$P*"
-  ~gitblanc~                           .$"
-                                     "
-```
-
-![](https://github.com/gitblanc/gifs/blob/main/dum.gif)
+<p align="center">
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/70d1d005-5b12-4244-80a5-e406712adb5e" alt="30daysstreak"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/965f48c0-58fa-4526-9d79-983eb13a1a4b" alt="owasptop10"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/b6464ed0-b2ea-483e-a43c-66d43662424e" alt="mrrobot"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/76bb8ece-9316-47c5-867f-dbc527b66c83" alt="blue"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/70a4ad97-bae1-4c4e-b6d0-f0be6679dd32" alt="7daysstreak"/>
+</p>
 
 ---
-<img src="https://profile-counter.glitch.me/gitblanc/count.svg" />
+<p align="center">
+          <img src="https://profile-counter.glitch.me/gitblanc/count.svg" alt="the end?"/>
+</p>
+
+
