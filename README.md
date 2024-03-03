@@ -41,6 +41,7 @@ _👽Currently in 4th grade👽_
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/70d1d005-5b12-4244-80a5-e406712adb5e" alt="30daysstreak"/>
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/965f48c0-58fa-4526-9d79-983eb13a1a4b" alt="owasptop10"/>
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/b6464ed0-b2ea-483e-a43c-66d43662424e" alt="mrrobot"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/16b54e85-ac9f-4e3c-a9a4-8d749c3a6a0d" alt="hashes"/>
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/76bb8ece-9316-47c5-867f-dbc527b66c83" alt="blue"/>
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/70a4ad97-bae1-4c4e-b6d0-f0be6679dd32" alt="7daysstreak"/>
 </p>
@@ -49,5 +50,4 @@ _👽Currently in 4th grade👽_
 <p align="center">
           <img src="https://profile-counter.glitch.me/gitblanc/count.svg" alt="the end?"/>
 </p>
-
 
