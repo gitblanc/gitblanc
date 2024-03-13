@@ -20,7 +20,7 @@ _🌊You can also check [my personal blog](https://gitblanc.github.io/gitblanc_b
 
 _👽Currently in 4th grade👽_
 
-<script src="https://tryhackme.com/badge/943872"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/gitblanc.png" alt="TryHackMe">
 
 <p align="center">
           <img src="https://komarev.com/ghpvc/?username=gitblanc" alt="pfcounter?"/> 
