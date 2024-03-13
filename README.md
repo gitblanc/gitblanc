@@ -16,7 +16,7 @@ _🔥I do not have a presentation website (it is my Github), but you can check [
 
 _💥Check [Obsidian-Notes](https://github.com/gitblanc/Obsidian-Notes) where is stored all this knowledge, if you want to save it and continue by your own💥_
 
-_🌊You can also check [my personal blog](https://gitblanc.github.io/gitblanc_blog/), where I upload some writeups and articles that you may find interesting🌊_
+_🌊You can also check [my personal cybersecurity notes](https://gitblanc.github.io/c1b3rn0t3s), where I upload all my offensive cybersecurity knowledge🌊_
 
 _👽Currently in 4th grade👽_
 
