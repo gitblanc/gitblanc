@@ -41,6 +41,9 @@ _👽Currently in 4th grade👽_
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/16b54e85-ac9f-4e3c-a9a4-8d749c3a6a0d" alt="hashes"/>
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/76bb8ece-9316-47c5-867f-dbc527b66c83" alt="blue"/>
           <img src="https://github.com/gitblanc/gitblanc/assets/87705461/70a4ad97-bae1-4c4e-b6d0-f0be6679dd32" alt="7daysstreak"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/fe7f06f3-37be-4af8-8b7e-dffb6d8d20e4" alt="king"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/3978e226-60ae-45ad-8de1-9bdc59a05da8" alt="ohsint"/>
+          <img src="https://github.com/gitblanc/gitblanc/assets/87705461/03962435-41fe-41af-8673-c54db2344bcd" alt="90daysstreak"/>
 </p>
 
 ---
