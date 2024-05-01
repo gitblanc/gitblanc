@@ -16,6 +16,8 @@ _🔥You can check [my personal degree's notes](https://gitblanc.gitbook.io/obsi
 
 _🌊You can also check [my personal cybersecurity notes](https://gitblanc.github.io/c1b3rn0t3s), where I upload all my offensive cybersecurity knowledge and writeups🌊_
 
+_🦜As you can see, I love to build and share my digital garden🦜_
+
 _👽Currently in 4th grade👽_
 
 <p align="center">
