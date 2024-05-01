@@ -10,13 +10,11 @@
    \_/__/ 
 ```
 ---
-_♨My name is gitblanc and I'm studying Software Engineering in Oviedo♨_ 
+_🐧My name is gitblanc and I'm studying Software Engineering in Oviedo🐧_ 
 
-_🔥I do not have a presentation website (it is my Github), but you can check [my personal webpage](https://gitblanc.gitbook.io/obsidian-notes/) where I store all my knowledge. I love to share it to everyone :) 🔥_
+_🔥You can check [my personal webpage](https://gitblanc.gitbook.io/obsidian-notes/) where I store all my knowledge related to my degree. I love to share it to everyone :) 🔥_
 
-_💥Check [Obsidian-Notes](https://github.com/gitblanc/Obsidian-Notes) where is stored all this knowledge, if you want to save it and continue by your own💥_
-
-_🌊You can also check [my personal cybersecurity notes](https://gitblanc.github.io/c1b3rn0t3s), where I upload all my offensive cybersecurity knowledge🌊_
+_🌊You can also check [my personal cybersecurity notes](https://gitblanc.github.io/c1b3rn0t3s), where I upload all my offensive cybersecurity knowledge and writeups🌊_
 
 _👽Currently in 4th grade👽_
 
