@@ -12,7 +12,7 @@
 ---
 _🐧My name is gitblanc and I'm studying Software Engineering in Oviedo🐧_ 
 
-_🔥You can check [my personal degree's notes](https://gitblanc.gitbook.io/obsidian-notes/) where I store all my knowledge related to my degree. I love to share it to everyone🔥_
+_🔥You can check [my personal degree's notes](gitblanc.github.io/Obsidian-Notes/) where I store all my knowledge related to my degree. I love to share it to everyone🔥_
 
 _🌊You can also check [my personal cybersecurity notes](https://gitblanc.github.io/c1b3rn0t3s), where I upload all my offensive cybersecurity knowledge and writeups🌊_
 
