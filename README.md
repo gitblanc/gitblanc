@@ -18,8 +18,6 @@ _🌊You can also check [my personal cybersecurity notes](https://gitblanc.githu
 
 _🦜As you can see, I love to build and share my digital garden🦜_
 
-_👽Currently in 4th grade👽_
-
 <p align="center">
           <img src="https://tryhackme-badges.s3.amazonaws.com/gitblanc.png" alt="TryHackMe">
           <img src="https://www.hackthebox.eu/badge/image/1842544" alt="HackTheBox">
