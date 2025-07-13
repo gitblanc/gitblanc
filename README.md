@@ -9,7 +9,7 @@
    /\____/                                                
    \_/__/ 
 ```
----
+
 _🐧My name is gitblanc and I'm studying Software Engineering in Oviedo🐧_ 
 
 _🔥You can check [my personal degree's notes](https://gitblanc.github.io/Obsidian-Notes/) where I store all my knowledge related to my degree. I love to share it to everyone🔥_
@@ -29,10 +29,5 @@ _🦜As you can see, I love to build and share my digital garden🦜_
 
 <p align="center">
           <img src="https://github.com/gitblanc/gitblanc/blob/output/github-contribution-grid-snake-dark.svg" alt="snake:D"/>
-</p>
-
----
-<p align="center">
-          <img src="https://profile-counter.glitch.me/gitblanc/count.svg" alt="the end?"/>
 </p>
 
